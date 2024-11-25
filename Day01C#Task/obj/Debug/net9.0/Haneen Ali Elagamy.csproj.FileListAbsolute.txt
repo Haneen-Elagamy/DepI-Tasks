@@ -1,0 +1,14 @@
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\bin\Debug\net9.0\Haneen Ali Elagamy.exe
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\bin\Debug\net9.0\Haneen Ali Elagamy.deps.json
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\bin\Debug\net9.0\Haneen Ali Elagamy.runtimeconfig.json
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\bin\Debug\net9.0\Haneen Ali Elagamy.dll
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\bin\Debug\net9.0\Haneen Ali Elagamy.pdb
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.AssemblyInfoInputs.cache
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.AssemblyInfo.cs
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.csproj.CoreCompileInputs.cache
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.dll
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\refint\Haneen Ali Elagamy.dll
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.pdb
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\Haneen Ali Elagamy.genruntimeconfig.cache
+D:\.Net DEPI\C#\day01\Haneen Ali Elagamy\obj\Debug\net9.0\ref\Haneen Ali Elagamy.dll
