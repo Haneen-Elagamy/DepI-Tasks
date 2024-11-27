@@ -1,0 +1,15 @@
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\bin\Debug\net5.0\TaskAnswer2.exe
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\bin\Debug\net5.0\TaskAnswer2.deps.json
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\bin\Debug\net5.0\TaskAnswer2.runtimeconfig.json
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\bin\Debug\net5.0\TaskAnswer2.runtimeconfig.dev.json
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\bin\Debug\net5.0\TaskAnswer2.dll
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\bin\Debug\net5.0\TaskAnswer2.pdb
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.AssemblyInfoInputs.cache
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.AssemblyInfo.cs
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.csproj.CoreCompileInputs.cache
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.dll
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\refint\TaskAnswer2.dll
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.pdb
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\TaskAnswer2.genruntimeconfig.cache
+D:\.Net DEPI\C#\Day02\Task Answer\TaskAnswer2\TaskAnswer2\obj\Debug\net5.0\ref\TaskAnswer2.dll
