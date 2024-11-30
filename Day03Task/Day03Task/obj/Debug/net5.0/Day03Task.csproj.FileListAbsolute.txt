@@ -1,0 +1,15 @@
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\bin\Debug\net5.0\Day03Task.exe
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\bin\Debug\net5.0\Day03Task.deps.json
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\bin\Debug\net5.0\Day03Task.runtimeconfig.json
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\bin\Debug\net5.0\Day03Task.runtimeconfig.dev.json
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\bin\Debug\net5.0\Day03Task.dll
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\bin\Debug\net5.0\Day03Task.pdb
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.AssemblyInfoInputs.cache
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.AssemblyInfo.cs
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.csproj.CoreCompileInputs.cache
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.dll
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\refint\Day03Task.dll
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.pdb
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\Day03Task.genruntimeconfig.cache
+D:\.Net DEPI\C#\day03\Task03C#\Day03Task\Day03Task\obj\Debug\net5.0\ref\Day03Task.dll
